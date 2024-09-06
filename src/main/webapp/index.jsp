@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome:This session is on DevOps.</h2>
-<h2>Hello: Jawad from Alibaba Cloud</h2>
+<h2>Welcome to this session is on DevOps CI/CD.</h2>
+<h2>Hello: It is Jawad from Alibaba Cloud</h2>
 </body>
 </html>
